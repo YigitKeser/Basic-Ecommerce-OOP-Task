@@ -1,0 +1,6 @@
+John;1000
+Mary;2000
+Robert;1500
+Alice;750
+Bob;500
+Bill;250
